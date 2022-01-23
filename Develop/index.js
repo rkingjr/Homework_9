@@ -40,7 +40,7 @@ var questions = [
         type: 'list',
         message: 'Which license would you like to use?',
         name: 'license',
-        choices: ['(Apache license 2.0', 'MIT', 'Do What The F*ck You Want To Public License', 'None'],
+        choices: ["MIT", "Apache", "GPLv3"]
     },
 ];
 
